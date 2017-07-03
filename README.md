@@ -19,8 +19,8 @@ You can see changelog in gamemode .pwn file .
 
 
 # :point_right: Credits :
-| MaWReZ - Develop | [Contact Via Telegram](https://t.me/mawrez_01)
+:id: | MaWReZ - Develop | [Contact Via Telegram](https://t.me/mawrez_01)
 
-| AliEnpi - Debug | [Contact Via Telegram](https://t.me/AliEnpi)
+:id: | AliEnpi - Debug | [Contact Via Telegram](https://t.me/AliEnpi)
 
-| Sh4d0w - Map | [Contact Via Telegram](https://t.me/WilDHosseiN)
+:id: | Sh4d0w - Map | [Contact Via Telegram](https://t.me/WilDHosseiN)
